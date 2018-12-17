@@ -1,0 +1,50 @@
+id,name,album,artist,release_date,length,popularity,danceability,acousticness,energy,instrumentalness,liveness,loudness,speechiness,tempo,time_signature,class
+0,Promises (with Sam Smith),Promises (with Sam Smith),Calvin Harris,17-08-2018,213309,98,0.781,0.0119,0.768,4.91E-06,0.325,-5.991,0.0394,123.07,4,1
+1,One Kiss (with Dua Lipa),One Kiss (with Dua Lipa),Calvin Harris,06-04-2018,214846,94,0.791,0.037,0.862,2.19E-05,0.0814,-3.24,0.11,123.994,4,1
+2,How Deep Is Your Love,How Deep Is Your Love,Calvin Harris,17-07-2015,212640,77,0.738,0.0389,0.868,0.00171,0.388,-4.373,0.0731,122.003,4,1
+3,Slide,Funk Wav Bounces Vol.1,Calvin Harris,30-06-2017,230813,73,0.736,0.498,0.795,1.21E-06,0.254,-3.299,0.0545,104.066,4,1
+4,This Is What You Came For,This Is What You Came For,Calvin Harris,29-04-2016,222160,82,0.63,0.199,0.928,0.124,0.148,-2.787,0.0331,123.963,4,1
+5,Feels,Funk Wav Bounces Vol.1,Calvin Harris,30-06-2017,223413,81,0.893,0.0642,0.745,0,0.0943,-3.105,0.0571,101.018,4,1
+6,Summer,Motion,Calvin Harris,31-10-2014,222533,79,0.596,0.0211,0.856,0.0178,0.141,-3.556,0.0346,127.949,4,1
+7,My Way,My Way,Calvin Harris,16-09-2016,219159,80,0.819,0.0935,0.913,3.72E-05,0.161,-3.059,0.0427,119.989,4,1
+8,Rollin,Funk Wav Bounces Vol.1,Calvin Harris,30-06-2017,272653,68,0.753,0.446,0.76,3.13E-05,0.182,-4.518,0.0859,91.953,4,1
+9,Blame,Motion,Calvin Harris,31-10-2014,212960,75,0.413,0.0289,0.856,0.00571,0.343,-4.078,0.0808,128.017,4,1
+10,We Found Love (feat. Rihanna),18 Months,Calvin Harris,26-10-2012,215520,17,0.738,0.0234,0.776,0.0018,0.0775,-4.808,0.0392,127.984,4,1
+11,Outside,Motion,Calvin Harris,31-10-2014,227266,75,0.646,0.213,0.823,0,0.322,-4.123,0.0394,128.035,4,1
+12,Feel So Close - Radio Edit,18 Months,Calvin Harris,26-10-2012,206413,75,0.707,0.000972,0.924,0.00703,0.204,-2.842,0.031,127.937,4,1
+13,Under Control,Motion,Calvin Harris,31-10-2014,184280,73,0.544,0.129,0.915,0.000914,0.115,-3.405,0.0841,126.094,4,1
+14,Sweet Nothing (feat. Florence Welch),18 Months,Calvin Harris,26-10-2012,212560,73,0.573,0.197,0.929,0.000112,0.0567,-3.942,0.109,127.934,4,1
+15,Spectrum (Say My Name) - Calvin Harris Remix,Spectrum (Say My Name) EP,Florence + The Machine,01-01-2012,218190,54,0.589,0.0028,0.941,0.00151,0.0896,-3.735,0.0509,126.113,4,1
+16,I Need Your Love (feat. Ellie Goulding),18 Months,Calvin Harris,26-10-2012,234506,71,0.695,0.41,0.869,0,0.237,-5.066,0.0483,124.989,4,1
+17,Thinking About You (feat. Ayah Marar),18 Months,Calvin Harris,26-10-2012,247933,69,0.725,0.00262,0.874,0.000412,0.0958,-3.715,0.0396,127.985,4,1
+18,Let's Go (feat. Ne-Yo),18 Months,Calvin Harris,26-10-2012,232800,68,0.71,0.00777,0.882,0.00771,0.294,-2.932,0.0595,128.016,4,1
+19,Bounce (feat. Kelis) - Radio Edit,18 Months,Calvin Harris,26-10-2012,222186,64,0.779,0.0334,0.963,0.493,0.664,-2.125,0.0399,127.941,4,1
+20,Pray to God,Motion,Calvin Harris,31-10-2014,232226,65,0.606,0.015,0.949,2.76E-05,0.109,-2.749,0.0414,120.031,4,1
+21,C.U.B.A,C.U.B.A,Calvin Harris,16-03-2015,269906,50,0.623,0.0342,0.998,0.853,0.862,-1.436,0.0364,127.988,4,1
+22,Drinking from the Bottle (feat. Tinie Tempah),18 Months,Calvin Harris,26-10-2012,240346,64,0.665,0.0469,0.886,6.24E-05,0.0525,-4.175,0.0514,128.062,4,1
+23,Flashback,Ready For The Weekend,Calvin Harris,14-08-2009,227880,45,0.266,0.00212,0.95,0.000991,0.0922,-5.646,0.05,127.986,4,1
+24,Acceptable in the 80's,I Created Disco,Calvin Harris,2007,332826,44,0.78,0.0146,0.805,0.302,0.054,-5.439,0.0499,127.997,4,1
+25,I'm Not Alone - Radio Edit,Ready For The Weekend,Calvin Harris,14-08-2009,210973,47,0.595,0.0045,0.693,0.132,0.333,-6.6,0.0327,130.982,4,1
+26,You Used to Hold Me,Ready For The Weekend,Calvin Harris,14-08-2009,229173,42,0.626,0.0205,0.968,0,0.321,-6.014,0.0462,128.969,4,1
+27,Burnin,Motion,Calvin Harris,31-10-2014,234773,56,0.643,0.00205,0.997,0.672,0.659,-1.656,0.0483,128.004,4,1
+28,Ready for the Weekend,Ready For The Weekend,Calvin Harris,2009,217986,44,0.818,0.119,0.711,2.69E-05,0.053,-4.813,0.0368,137.959,4,1
+29,We'll Be Coming Back (feat. Example),18 Months,Calvin Harris,26-10-2012,234360,66,0.596,0.00131,0.952,0,0.598,-4.364,0.0873,127.945,4,1
+30,Eat Sleep Rave Repeat - Calvin Harris Remix Edit,Eat Sleep Rave Repeat (feat. Beardyman),Fatboy Slim,27-10-2013,168121,0,0.697,0.424,0.947,0.0527,0.128,-4.156,0.106,128.002,4,1
+31,Love Now,Motion,Calvin Harris,31-10-2014,218373,54,0.733,0.0207,0.674,0.173,0.0701,-4.441,0.0316,128.03,4,1
+32,Awooga,18 Months,Calvin Harris,26-10-2012,231240,47,0.514,0.000999,0.987,0.935,0.343,-3.402,0.0592,125.956,4,1
+33,Nuh Ready Nuh Ready,Nuh Ready Nuh Ready,Calvin Harris,08-02-2018,184172,64,0.754,0.063,0.779,2.81E-05,0.0758,-3.288,0.0387,116.003,4,1
+34,Dollar Signs,Motion,Calvin Harris,31-10-2014,236066,51,0.755,0.367,0.897,0.00215,0.358,-2.269,0.0329,128,4,1
+35,Slow Acid,Motion,Calvin Harris,31-10-2014,221786,53,0.664,0.545,0.935,0.855,0.176,-4.322,0.039,104.004,4,1
+36,Overdrive,Motion,Calvin Harris,31-10-2014,291960,51,0.631,0.0287,0.945,0.913,0.967,-3.674,0.04,127.983,4,1
+37,It Was You,Motion,Calvin Harris,31-10-2014,224386,51,0.701,0.283,0.985,0.281,0.617,-4.325,0.0675,127.974,4,1
+38,Mansion,18 Months,Calvin Harris,26-10-2012,127733,46,0.807,0.000594,0.793,0.845,0.918,-5.398,0.101,112.017,4,1
+39,Iron,18 Months,Calvin Harris,26-10-2012,219653,50,0.546,0.00139,0.887,0.0424,0.606,-4.694,0.0799,125.983,4,1
+40,Together,Motion,Calvin Harris,31-10-2014,218440,52,0.731,0.145,0.869,0.000185,0.116,-2.634,0.0409,127.971,4,1
+41,Stars Come Out,Ready For The Weekend,Calvin Harris,14-08-2009,267733,32,0.683,0.0256,0.867,0.00208,0.158,-5.162,0.0423,130.032,4,1
+42,Cash Out,Funk Wav Bounces Vol.1,Calvin Harris,30-06-2017,235973,63,0.722,0.152,0.79,0,0.0349,-4.867,0.241,94.965,4,1
+43,Heatstroke,Funk Wav Bounces Vol.1,Calvin Harris,30-06-2017,229160,63,0.784,0.34,0.728,0,0.222,-4.549,0.0539,110.165,4,1
+44,Prayers Up,Funk Wav Bounces Vol.1,Calvin Harris,30-06-2017,204280,63,0.821,0.433,0.637,0,0.209,-4.276,0.161,86.01,4,1
+45,Holiday,Funk Wav Bounces Vol.1,Calvin Harris,30-06-2017,169693,60,0.836,0.472,0.769,0.00157,0.0804,-2.334,0.0773,103.991,4,1
+46,Skrt On Me,Funk Wav Bounces Vol.1,Calvin Harris,30-06-2017,228266,61,0.713,0.169,0.889,5.80E-05,0.169,-3.87,0.0376,101.977,4,1
+47,Faking It,Funk Wav Bounces Vol.1,Calvin Harris,30-06-2017,240093,69,0.776,0.319,0.589,0,0.0715,-4.543,0.115,120.034,4,1
+48,Hard to Love,Funk Wav Bounces Vol.1,Calvin Harris,30-06-2017,230586,64,0.753,0.112,0.785,0.000191,0.0633,-6.53,0.174,148.015,4,1

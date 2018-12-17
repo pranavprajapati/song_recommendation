@@ -1,0 +1,100 @@
+,name,album,artist,release_date,length,popularity,danceability,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,time_signature
+0,Girls Like You (feat. Cardi B),Girls Like You (feat. Cardi B),Maroon 5,2018-05-30,235545,94,0.851,0.568,0.851,0.541,0.0,0.13,-6.825,0.0505,124.959,4
+1,Happier,Happier,Marshmello,2018-08-17,214289,100,0.687,0.191,0.687,0.792,0.0,0.167,-2.749,0.0452,100.015,4
+2,Lucid Dreams,Lucid Dreams,Juice WRLD,2018-05-04,239946,38,0.437,0.377,0.437,0.481,0.0,0.33,-9.681,0.237,83.606,4
+3,Promises (with Sam Smith),Promises (with Sam Smith),Calvin Harris,2018-08-17,213309,98,0.781,0.0119,0.781,0.768,4.91e-06,0.325,-5.991,0.0394,123.07,4
+4,Better Now,beerbongs & bentleys,Post Malone,2018-04-27,231266,96,0.68,0.354,0.68,0.563,0.0,0.136,-5.843,0.0454,145.028,4
+5,In My Mind,In My Mind,Dynoro,2018-06-08,184560,98,0.694,0.176,0.694,0.77,1.1e-05,0.118,-5.335,0.149,125.905,4
+6,In My Feelings,Scorpion,Drake,2018-06-29,217925,99,0.835,0.0589,0.835,0.626,6e-05,0.396,-5.833,0.125,91.03,4
+7,We Are the Ones,We Are the Ones,Westside Cast,2018-10-11,225169,39,0.376,0.015,0.376,0.742,0.0,0.328,-5.798,0.0994,187.771,4
+8,Eastside (with Halsey & Khalid),Eastside (with Halsey & Khalid),benny blanco,2018-07-12,173799,99,0.56,0.555,0.56,0.68,0.0,0.116,-7.648,0.321,89.391,4
+9,I Like It,Invasion of Privacy,Cardi B,2018-04-06,253390,96,0.816,0.099,0.816,0.726,0.0,0.372,-3.998,0.129,136.048,4
+10,Better,Better,Khalid,2018-09-14,229412,94,0.442,0.0984,0.442,0.585,0.391,0.14,-10.332,0.0964,97.565,4
+11,Youngblood,Youngblood,5 Seconds of Summer,2018-04-12,203417,90,0.596,0.0169,0.596,0.854,0.0,0.124,-5.114,0.463,120.274,4
+12,SAD!,SAD!,XXXTENTACION,2018-03-02,166568,26,0.74,0.258,0.74,0.613,0.00372,0.123,-4.88,0.145,75.023,4
+13,Love Lies (with Normani),Love Lies (with Normani),Khalid,2018-02-14,201707,89,0.708,0.0956,0.708,0.648,0.0,0.134,-5.626,0.0449,143.955,4
+14,"Vibe (feat. Taz Zavala, Leo Gallo & Arika Gluck)","Vibe (feat. Taz Zavala, Leo Gallo & Arika Gluck)",Westside Cast,2018-10-11,240537,18,0.766,0.199,0.766,0.872,5.88e-06,0.0695,-3.471,0.109,116.029,4
+15,Be Alright,Be Alright,Dean Lewis,2018-06-29,196373,96,0.553,0.697,0.553,0.586,0.0,0.0813,-6.319,0.0362,126.684,4
+16,Natural,Natural,Imagine Dragons,2018-07-17,189466,95,0.448,0.216,0.448,0.612,0.0,0.08,-6.106,0.0708,97.773,4
+17,Without Me,Without Me,Halsey,2018-10-04,201660,90,0.752,0.297,0.752,0.488,9.11e-06,0.0936,-7.05,0.0705,136.041,4
+18,No Brainer,No Brainer,DJ Khaled,2018-07-27,260000,95,0.552,0.0733,0.552,0.76,0.0,0.0865,-4.706,0.342,135.702,5
+19,Electricity (with Dua Lipa),Electricity (with Dua Lipa),Silk City,2018-09-06,238173,94,0.588,0.0104,0.588,0.67,3.33e-06,0.338,-6.439,0.0473,118.159,4
+20,Back To You - From 13 Reasons Why – Season 2 Soundtrack,Back To You (From 13 Reasons Why – Season 2 Soundtrack),Selena Gomez,2018-05-10,207904,88,0.601,0.0945,0.601,0.724,1.68e-06,0.12,-4.856,0.0486,102.061,4
+21,This Feeling,Sick Boy...This Feeling,The Chainsmokers,2018-09-18,199226,91,0.575,0.0558,0.575,0.571,0.0,0.0912,-7.906,0.0439,105.049,4
+22,God is a woman,God is a woman,Ariana Grande,2018-07-13,197573,78,0.604,0.0268,0.604,0.673,3.32e-05,0.187,-5.979,0.0545,144.971,4
+23,Perfect Duet (Ed Sheeran & Beyoncé),Perfect Duet (Ed Sheeran & Beyoncé),Ed Sheeran,2017-11-30,259550,87,0.587,0.779,0.587,0.299,0.0,0.123,-7.365,0.0263,94.992,3
+24,Delicate,reputation,Taylor Swift,2017-11-10,232253,47,0.75,0.216,0.75,0.404,0.000357,0.0911,-10.178,0.0682,95.045,4
+25,Meant to Be (feat. Florida Georgia Line),All Your Fault: Pt. 2,Bebe Rexha,2017-08-11,163870,88,0.643,0.047,0.643,0.783,0.0,0.083,-6.458,0.0856,154.084,4
+26,no tears left to cry,no tears left to cry,Ariana Grande,2018-04-20,205946,76,0.703,0.0375,0.703,0.696,5.65e-06,0.274,-5.482,0.0529,121.969,4
+27,Psycho (feat. Ty Dolla $ign),Psycho (feat. Ty Dolla $ign),Post Malone,2018-02-23,220880,38,0.748,0.59,0.748,0.546,0.0,0.112,-8.134,0.106,140.005,4
+28,I'm a Mess,Expectations,Bebe Rexha,2018-06-22,195519,89,0.63,0.00281,0.63,0.694,0.0,0.0719,-6.257,0.0253,97.005,4
+29,Rise,Rise,Jonas Blue,2018-05-25,194407,95,0.69,0.323,0.69,0.784,0.0,0.203,-4.653,0.032,106.066,4
+30,Solo (feat. Demi Lovato),Solo (feat. Demi Lovato),Clean Bandit,2018-05-17,222653,95,0.737,0.0441,0.737,0.636,6.66e-05,0.35,-4.546,0.0437,105.005,4
+31,"Thunderclouds with Sia, Diplo & Labrinth","Thunderclouds with Sia, Diplo & Labrinth",Sia,2018-08-09,187026,93,0.691,0.0085,0.691,0.716,9.06e-06,0.263,-5.985,0.0351,112.035,4
+32,FRIENDS,FRIENDS,Marshmello,2018-02-09,202620,90,0.626,0.205,0.626,0.88,0.0,0.128,-2.384,0.0504,95.079,4
+33,One Kiss (with Dua Lipa),One Kiss (with Dua Lipa),Calvin Harris,2018-04-06,214846,94,0.791,0.037,0.791,0.862,2.19e-05,0.0814,-3.24,0.11,123.994,4
+34,Goodbye (feat. Nicki Minaj & Willy William),Goodbye (feat. Nicki Minaj & Willy William),Jason Derulo,2018-08-24,195419,91,0.643,0.0776,0.643,0.904,0.0,0.189,-3.694,0.0739,103.028,4
+35,2002,2002,Anne-Marie,2018-04-19,186986,87,0.697,0.0372,0.697,0.683,0.0,0.137,-2.881,0.117,96.133,4
+36,Whatever It Takes,Evolve,Imagine Dragons,2017-06-23,201240,47,0.673,0.0428,0.673,0.667,0.0,0.127,-4.977,0.0312,134.938,4
+37,Ocean (feat. Khalid),Ocean (feat. Khalid),Martin Garrix,2018-06-15,216419,91,0.506,0.584,0.506,0.693,9.58e-05,0.0891,-7.265,0.0412,139.912,4
+38,Don't Leave Me Alone (feat. Anne-Marie),Don't Leave Me Alone (feat. Anne-Marie),David Guetta,2018-07-26,183750,89,0.659,0.118,0.659,0.738,0.0,0.115,-5.072,0.0477,127.95,4
+39,God's Plan,Scary Hours,Drake,2018-01-20,198960,57,0.755,0.0283,0.755,0.448,3.28e-05,0.514,-9.587,0.107,77.179,4
+40,breathin,Sweetener,Ariana Grande,2018-08-17,198160,94,0.568,0.0211,0.568,0.656,1.37e-05,0.213,-5.413,0.0433,100.049,4
+41,Darkside,Darkside,Alan Walker,2018-07-27,211866,89,0.425,0.164,0.425,0.642,0.0,0.118,-5.06,0.0502,170.008,4
+42,You Are The Reason,Only Human (Deluxe),Calum Scott,2018-03-09,204326,84,0.331,0.918,0.331,0.235,0.0,0.137,-7.7,0.0299,171.232,3
+43,Side Effects (feat. Emily Warren),Sick Boy...Side Effects,The Chainsmokers,2018-07-27,173613,71,0.673,0.00277,0.673,0.71,0.0,0.55,-6.744,0.0324,110.017,4
+44,Happier,÷ (Deluxe),Ed Sheeran,2017-03-03,207520,88,0.522,0.536,0.522,0.385,0.0,0.135,-7.355,0.0288,89.792,4
+45,"1, 2, 3 (feat. Jason Derulo & De La Ghetto)","1, 2, 3 (feat. Jason Derulo & De La Ghetto)",Sofia Reyes,2018-02-16,201526,88,0.792,0.165,0.792,0.895,0.0,0.0501,-3.112,0.0589,94.968,4
+46,Shotgun,Staying at Tamara's,George Ezra,2018-03-23,201287,93,0.672,0.286,0.672,0.735,0.0,0.242,-4.733,0.0457,115.741,4
+47,"These Days (feat. Jess Glynne, Macklemore & Dan Caplen)","These Days (feat. Jess Glynne, Macklemore & Dan Caplen)",Rudimental,2018-01-19,210772,89,0.653,0.194,0.653,0.809,0.0,0.165,-4.057,0.0474,92.213,4
+48,Body,Body,Loud Luxury,2018-03-02,163216,82,0.759,0.0503,0.759,0.774,4.02e-05,0.056,-4.408,0.0381,121.969,4
+49,Blah Blah Blah,Blah Blah Blah,Armin van Buuren,2018-05-18,183518,70,0.612,0.00897,0.612,0.963,0.00378,0.294,-3.912,0.0531,138.009,4
+50,IDGAF,Dua Lipa (Deluxe),Dua Lipa,2017-06-02,218173,70,0.836,0.0433,0.836,0.552,0.0,0.0773,-5.66,0.0851,97.036,4
+51,Call Out My Name,"My Dear Melancholy,",The Weeknd,2018-03-30,228373,86,0.449,0.211,0.449,0.599,0.0,0.327,-4.892,0.0369,134.144,3
+52,Right Now,Right Now,Nick Jonas,2018-08-24,201680,84,0.597,0.0104,0.597,0.751,0.0,0.0912,-4.982,0.193,103.956,4
+53,So Far Away (feat. Jamie Scott & Romy Dya),So Far Away (feat. Jamie Scott & Romy Dya),Martin Garrix,2017-12-01,183636,79,0.526,0.435,0.526,0.52,0.0,0.197,-7.985,0.0569,149.119,4
+54,rockstar,rockstar (feat. 21 Savage),Post Malone,2018-02-02,218320,35,0.578,0.117,0.578,0.532,8.97e-05,0.143,-6.636,0.066,159.784,4
+55,Beautiful (feat. Camila Cabello),Beautiful (feat. Camila Cabello),Bazzi,2018-08-02,180000,94,0.638,0.346,0.638,0.717,0.0,0.105,-4.722,0.0337,100.027,4
+56,In My Blood,In My Blood,Shawn Mendes,2018-03-22,211600,47,0.628,0.0524,0.628,0.715,0.0,0.119,-7.097,0.0541,139.991,4
+57,Dance To This (feat. Ariana Grande),Dance To This (feat. Ariana Grande),Troye Sivan,2018-06-13,231846,81,0.736,0.00632,0.736,0.756,0.00577,0.106,-7.099,0.047,117.016,4
+58,High Hopes,Pray For The Wicked,Panic! At The Disco,2018-06-22,190946,92,0.579,0.193,0.579,0.904,0.0,0.064,-2.729,0.0618,82.014,4
+59,Havana,Camila,Camila Cabello,2018-01-12,217306,90,0.765,0.184,0.765,0.523,3.56e-05,0.132,-4.333,0.03,104.988,4
+60,How Long,How Long,Charlie Puth,2017-10-05,198237,37,0.849,0.189,0.849,0.581,3.61e-06,0.0805,-5.243,0.0767,110.008,4
+61,Échame La Culpa,Échame La Culpa,Luis Fonsi,2017-11-17,173720,52,0.724,0.0322,0.724,0.895,0.0,0.097,-3.617,0.0411,96.022,4
+62,Finesse (Remix) [feat. Cardi B],Finesse (Remix) [feat. Cardi B],Bruno Mars,2017-12-20,217288,84,0.704,0.0185,0.704,0.859,0.0,0.0215,-4.877,0.0996,105.115,4
+63,Jackie Chan,Jackie Chan,Tiësto,2018-05-18,215759,94,0.747,0.374,0.747,0.834,0.0,0.0586,-2.867,0.045,128.005,4
+64,X,X,Nicky Jam,2018-03-02,173627,88,0.595,0.0364,0.595,0.773,0.00108,0.334,-4.736,0.0549,180.073,4
+65,Melody,Melody,Lost Frequencies,2018-04-27,149008,67,0.674,0.126,0.674,0.659,0.0,0.455,-8.456,0.048,120.05,4
+66,Flames,Flames,David Guetta,2018-03-22,195000,88,0.609,0.0723,0.609,0.726,8.45e-06,0.0895,-4.346,0.0414,93.958,4
+67,Nos Fuimos Lejos (feat. El Micha) - Romanian Version,Nos Fuimos Lejos (feat. El Micha) [Romanian Version],Descemer Bueno,2018-08-23,236709,56,0.737,0.152,0.737,0.838,3.65e-06,0.0906,-5.003,0.0626,93.98,4
+68,I Love It (& Lil Pump),I Love It,Kanye West,2018-09-07,127946,99,0.901,0.0114,0.901,0.522,0.0,0.259,-8.304,0.33,104.053,4
+69,Happy Now,Happy Now,Zedd,2018-07-18,207029,92,0.503,0.579,0.503,0.741,1.49e-06,0.0712,-5.128,0.047,88.335,3
+70,Wolves,Wolves,Selena Gomez,2017-10-25,197993,50,0.715,0.139,0.715,0.802,0.0,0.177,-4.647,0.0394,124.989,4
+71,Made For Now,Made For Now,Janet Jackson,2018-08-17,210685,74,0.76,0.00307,0.76,0.888,1.49e-05,0.149,-3.449,0.124,115.705,4
+72,Personal,Talk To Ya - EP,HRVY,2017-11-30,198040,39,0.751,0.112,0.751,0.547,0.0,0.0282,-5.566,0.13,138.971,4
+73,"Genius - with Sia, Diplo & Labrinth","Genius (with Sia, Diplo & Labrinth)",Sia,2018-05-03,213040,81,0.622,0.0864,0.622,0.621,9.8e-05,0.121,-4.924,0.129,158.946,4
+74,All The Stars (with SZA),All The Stars (with SZA),Kendrick Lamar,2018-01-04,235540,42,0.715,0.0322,0.715,0.62,0.0142,0.0881,-5.428,0.0507,96.812,4
+75,Anywhere,Anywhere,Rita Ora,2017-10-20,215064,82,0.628,0.0364,0.628,0.797,0.0,0.104,-3.953,0.0596,106.93,4
+76,Born To Be Yours,Born To Be Yours,Kygo,2018-06-15,193320,88,0.688,0.3,0.688,0.688,0.0,0.0982,-5.84,0.0357,114.011,4
+77,Sick Boy,Sick Boy...You Owe Me,The Chainsmokers,2018-02-16,193893,23,0.548,0.104,0.548,0.58,0.0,0.127,-7.524,0.121,180.066,4
+78,Hard 2 Face Reality,Hard 2 Face Reality,Poo Bear,2018-04-06,196569,71,0.625,0.22,0.625,0.626,0.0,0.228,-5.281,0.0293,142.043,4
+79,For You (Fifty Shades Freed) (& Rita Ora),Fifty Shades Freed (Original Motion Picture Soundtrack),Various Artists,2018-02-09,245453,45,0.49,0.0196,0.49,0.805,0.0,0.162,-4.595,0.0356,112.97,4
+80,Him & I (with Halsey),The Beautiful & Damned,G-Eazy,2017-12-15,268866,83,0.589,0.0534,0.589,0.731,0.0,0.308,-6.343,0.0868,87.908,4
+81,Let You Love Me,Let You Love Me,Rita Ora,2018-09-21,190000,89,0.531,0.288,0.531,0.854,0.0,0.0773,-3.149,0.198,94.419,4
+82,Tie Me Down (with Elley Duhé),Tie Me Down (with Elley Duhé),Gryffin,2018-08-03,218295,85,0.548,0.135,0.548,0.839,0.0,0.102,-2.371,0.0644,98.932,4
+83,Bottled Up,Bottled Up,Dinah Jane,2018-09-21,199300,75,0.843,0.107,0.843,0.58,1.84e-05,0.0645,-4.271,0.0591,98.023,4
+84,Up Now (feat. G-Eazy and Rich The Kid),Up Now (feat. G-Eazy and Rich The Kid),Saweetie,2018-08-22,198087,72,0.956,0.00294,0.956,0.544,0.0,0.104,-6.41,0.0822,104.011,4
+85,Drew Barrymore,Drew Barrymore,Bryce Vine,2017-12-01,190471,88,0.763,0.493,0.763,0.572,0.00118,0.106,-7.312,0.0595,151.93,4
+86,Whenever (feat. Conor Maynard),Whenever (feat. Conor Maynard),Kris Kross Amsterdam,2018-06-22,163636,89,0.734,0.151,0.734,0.765,0.0,0.231,-5.562,0.0621,109.989,4
+87,Ride Good,Ride Good,LightSkinKeisha,2018-09-21,220377,56,0.645,0.094,0.645,0.57,0.0,0.133,-6.733,0.0605,157.048,4
+88,No Smoke,No Smoke,Klondike Blonde,2018-09-27,182278,58,0.842,0.00523,0.842,0.56,1.36e-05,0.102,-7.21,0.147,158.057,4
+89,Young & Rude,Young & Rude,Abir,2018-09-20,188357,56,0.584,0.0277,0.584,0.689,0.0,0.0957,-5.269,0.116,159.849,4
+90,Sweet but Psycho,Sweet but Psycho,Ava Max,2018-08-17,187436,88,0.719,0.0691,0.719,0.704,0.0,0.166,-4.724,0.0476,133.002,4
+91,All Over You,All Over You,Majid Jordan,2018-09-07,215327,70,0.797,0.0579,0.797,0.5,0.0,0.122,-6.964,0.0354,106.957,4
+92,Last Summer,Last Summer,Johnny Orlando,2018-09-19,155586,66,0.693,0.267,0.693,0.752,0.0,0.158,-4.599,0.0468,86.039,4
+93,Pretty Girl,Pretty Girl,Stefflon Don,2018-08-08,194049,67,0.702,0.124,0.702,0.715,0.0,0.0794,-4.303,0.311,189.847,4
+94,Magic In The Hamptons (feat. Lil Yachty),Magic In The Hamptons (feat. Lil Yachty),Social House,2018-06-08,164640,85,0.769,0.66,0.769,0.479,0.0,0.0914,-5.339,0.0385,96.051,4
+95,Rotation 112th,Redemption,Jay Rock,2018-06-15,212240,60,0.742,0.0614,0.742,0.711,0.00623,0.124,-4.658,0.237,175.903,4
+96,SOS,SOS,Cher,2018-08-23,202440,60,0.496,0.144,0.496,0.743,0.0,0.092,-4.227,0.0336,122.352,4
+97,Personal,Personal,Emotional Oranges,2018-07-24,226840,62,0.817,0.116,0.817,0.526,0.00024,0.101,-7.117,0.0584,100.022,4
+98,Pretty Bitches in the Trap,First Day of Summer,Summerella,2018-07-18,234684,48,0.815,0.0547,0.815,0.71,3.8e-06,0.0434,-5.023,0.127,139.994,4
