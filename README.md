@@ -21,3 +21,7 @@ Spotify’s API provides something called audio features, which are, as the name
 ## Presentation
 
 ### [This presentation](https://github.com/pranavprajapati/song_recommendation/blob/master/project_presentation.pdf) will give an overview of the project methods used and results.
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pranavprajapati/song_recommendation/master)
+.. image:: https://mybinder.org/badge_logo.svg
+ :target: https://mybinder.org/v2/gh/pranavprajapati/song_recommendation/master
